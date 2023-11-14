@@ -1,7 +1,4 @@
-# Scrollable 3D Animation with Three.js
-
-- Watch the [full tutorial](https://youtu.be/Q7AOvWpIVHU) on YouTube
-- [Scrollable Three.js Animation](https://fireship.io/snippets/threejs-scrollbar-animation) Snippet
+# 3D Webdev with Three.js
 
 ## Usage
 
@@ -9,4 +6,11 @@
 git clone <this-repo>
 npm install
 npm run dev
-```# 3D_WebDev
+```
+
+## When you are ready to deploy make sure that you run the following and use the items in the generated dist folder as your public assets
+
+```
+npm run build 
+
+```
