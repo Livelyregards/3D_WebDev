@@ -23,6 +23,7 @@ renderer.render(scene, camera);
 const normalTexture = new THREE.TextureLoader().load('normal.jpg');
 const geometry = new THREE.TorusKnotGeometry(3, 0.003, 545, 6, 4, 5);  
 //the last two numbers in this function need to be co-prime (their gcd should be 1) if you want the tori to look cool! 
+// Here is where you can begin your experiment with Carmichael numbers. 
 
 const material = new THREE.MeshStandardMaterial({ color: 0x975AE5 });
 
