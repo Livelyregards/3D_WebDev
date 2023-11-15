@@ -1,14 +1,18 @@
 # 3D Webdev with Three.js
 
+
+## Live Demo
+<a href = "https://drewr.org/" target = "_blank"> My page </a>
+
 ## Usage
 
 ```
-git clone <this-repo>
+git clone https://github.com/Livelyregards/3D_WebDev.git
 npm install
 npm run dev
 ```
 
-## When you are ready to deploy make sure that you run the following and use the items in the generated dist folder as your public assets
+## When you are ready to deploy make sure that you run the following
 
 ```
 npm run build 
