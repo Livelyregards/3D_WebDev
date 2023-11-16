@@ -8,6 +8,7 @@
 
 ```
 git clone https://github.com/Livelyregards/3D_WebDev.git
+cd 3D_WebDev
 npm install
 npm run dev
 ```
